@@ -1,0 +1,4 @@
+site_name: bio101-mkdocs-demo Notes
+nav:
+  - Home: index.md
+docs_dir: docs
